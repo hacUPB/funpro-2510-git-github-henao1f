@@ -18,4 +18,8 @@ Verificar el estado: Para ver los archivos modificados y el estado del repositor
 git status
 Ver historial de commits: Para revisar el historial de commits realizados, usa:
 
-git log
+git log 
+![instalar git](../images/git.jpg)
+
+
+
