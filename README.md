@@ -9,7 +9,10 @@ copias la url del tu repositorio de github, entras a git bash y pones   git clon
 
 Tabla de Contenido
 
-Uso de la Consola
-Repositorio Local
-Repositorio Remoto
+[uso de la consola](./docs/uso_consola.md)
+
+[Repositorio Local](./docs/repositorio_local.md)
+
+[Repositorio Remoto](./docs/repositorio_remoto.md)
+
 
