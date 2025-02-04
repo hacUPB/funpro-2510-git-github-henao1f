@@ -19,5 +19,6 @@ Realiza un push de tus cambios locales al repositorio remoto:
 bash
 Copiar
 git push -u origin master
-[remoto](../images/repositorio.jpg)
+![remoto](../images/repositorio.jpg)
+
 
